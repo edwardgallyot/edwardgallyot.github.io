@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://edwardgallyot.github.io/sitemap.xml
